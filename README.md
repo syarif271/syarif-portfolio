@@ -33,7 +33,6 @@
 <img src="/img/css.jpg" width="50">
 <img src="/img/html logo.png" width="50">
 <img src="/img/javas.png" width="50">
-<img src="/img/php.png" width="50">
 <img src="/img/figma.png" width="50">
 
 
