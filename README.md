@@ -30,7 +30,12 @@
 </ul></h3>
 
 <h3>Tech Stack 👨‍💻</h3>
-<img src="">
+<img src="/img/css.jpg" width="50">
+<img src="/img/html.png" width="50">
+<img src="/img/javas.png" width="50">
+<img src="/img/php.png" width="50">
+<img src="/img/figma.png" width="50">
+
 
 <details> <summary><h3>Soft Skill</h3></summary>
 <p>Teamwork </p>
