@@ -1,4 +1,4 @@
-<img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
+
 
 <h1>Hi, I am <a href="https://github.com/syarif271">Syarif</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
@@ -31,7 +31,7 @@
 
 <h3>Tech Stack 👨‍💻</h3>
 <img src="/img/css.jpg" width="50">
-<img src="/img/html.png" width="50">
+<img src="/img/html logo.png" width="50">
 <img src="/img/javas.png" width="50">
 <img src="/img/php.png" width="50">
 <img src="/img/figma.png" width="50">
